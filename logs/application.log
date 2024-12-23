@@ -1,0 +1,22 @@
+2024-12-23 21:28:46 - Starting ApplicationTests using Java 21.0.4 with PID 1808 (started by MrBalles in E:\Development\JavaProjects\correct-payment-dates)
+2024-12-23 21:28:46 - No active profile set, falling back to 1 default profile: "default"
+2024-12-23 21:28:48 - Started ApplicationTests in 1.901 seconds (process running for 3.045)
+2024-12-23 21:28:49 - Could not detect default configuration classes for test class [com.zrs.correct_payment_dates.integrated.IntegratedGoogleSheetsServiceTest]: IntegratedGoogleSheetsServiceTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-12-23 21:28:49 - Found @SpringBootConfiguration com.zrs.correct_payment_dates.Application for test class com.zrs.correct_payment_dates.integrated.IntegratedGoogleSheetsServiceTest
+2024-12-23 21:28:49 - White list was updated: {234516754=Dexter Holland, 608803031=Roman Miller}
+2024-12-23 21:28:56 - Could not detect default configuration classes for test class [com.zrs.correct_payment_dates.integrated.IntegratedTelegramBotAccessDataUpdaterTest]: IntegratedTelegramBotAccessDataUpdaterTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-12-23 21:28:56 - Found @SpringBootConfiguration com.zrs.correct_payment_dates.Application for test class com.zrs.correct_payment_dates.integrated.IntegratedTelegramBotAccessDataUpdaterTest
+2024-12-23 21:29:25 - Starting Application using Java 21.0.4 with PID 15892 (E:\Development\JavaProjects\correct-payment-dates\target\classes started by MrBalles in E:\Development\JavaProjects\correct-payment-dates)
+2024-12-23 21:29:25 - No active profile set, falling back to 1 default profile: "default"
+2024-12-23 21:29:27 - Started Application in 2.307 seconds (process running for 2.855)
+2024-12-23 21:29:28 - White list was updated: {234516754=Dexter Holland, 608803031=Roman Miller}
+2024-12-23 21:29:33 - Пользователь [Roman Miller] имеет доступ.
+2024-12-23 21:29:43 - Пользователь [Roman Miller] имеет доступ.
+2024-12-23 21:29:47 - Непроставленных дат, по данной выписке, не было.
+Даты данных счетов уже были проставлены:
+Cчет: 1504 Дата: 19-Nov-2024
+Cчет: 1095 Дата: 18-Nov-2024
+Cчет: 1519 Дата: 18-Nov-2024
+
+2024-12-23 21:29:54 - Пользователь [Roman Miller] имеет доступ.
+2024-12-23 21:29:55 - Error: В выписке отсутствует, либо было изменено название поля "Назначение платежа"
